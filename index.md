@@ -1,5 +1,4 @@
 # -jenniferhaaaa-.github.io
-<!DOCtype html>
 
 <html>
 
@@ -7,16 +6,39 @@
 
 <h1> About me </h1>
 
-<p> Hi! My name is Jennifer Ha and I am actively seeking a co-op position for the Fall 2020 term. I am a 2B Science and Business
-student at the University of Waterloo interested in jobs relating to development of a company, project management, and I would
+<p> Hi! My name is Jennifer Ha and I am actively seeking a co-op position for the Fall 2020 term. I wanted to impress
+my employer a little but more so I made this GitHub page. The goal for this page was to expand a little more of my resume, interests, 
+and skills while expanding my knowledge on coding. I've taken a course that taught me HTML and CSS before, so now I'm refreshing
+my brain. Next up is Python and SQL.</p>
+
+<p> I am a 2B Science and Business student at the University of Waterloo interested in jobs relating to development of a company, project management, and I would
 love to be introduced and start learning new skills. </p>
+
 <p> I am a highly motivated individual who is not scared of taking on new challenges, risk is my middle name. I'm getting use
-to the new normal and I hope that my next co-op opportunity will teach me even more than my first one did.</p>
+to the new normal and I hope that my next co-op opportunity will teach me even more than my first one did. </p>
 
 <p> Other than school and academics, I love staying active and trying new things. Growing up, I participated on many sport teams
 but my favourite still stands at basketball and soccer. I love the high pace and high energy games with an entire team working
 together. Last summer, I started kickboxing as an extra workout. Starting to kickbox really got me into staying active 
 and healthy and it even made me a morning person; morning workouts are my favourite. </p>
+
+<h2> Get to Know Me </h2>
+<p> Summary of Qualifications </p>
+<p>
+
+  <ul> 
+     <li> - Excellent time management, decision making, and independent work skills gained from 4+ years of project management
+     <li> - Enhanced leadership and credibility capabilities developed through involvement in Student Leadership Program at the 
+            Univeristy of Waterloo and Start-Up Immersion Programme at Hong Kong Polytechnic Univeristy 
+     <li> - Self-motivated, detail and result oriented with organization skills demonstrated through process implementations
+     <li> - Strong written adn verbal communication skills developed by delivering several presentations in front of 100+ individuals 
+     <li> - Proficient in HTML, CSS, Canva demonstrated through designing websites, online quizzes, and slide decks 
+     <li> - Advanced experience with Microsoft Office applications including Excel, Visio, PowerPoint, Word 
+     <li> - Fluent in French 
+  </ul> 
+  
+</p>
+
 </body>
 
 </html>
