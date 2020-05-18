@@ -27,14 +27,14 @@ and healthy and it even made me a morning person; morning workouts are my favour
 <p>
 
   <ul> 
-     <li> - Excellent time management, decision making, and independent work skills gained from 4+ years of project management
-     <li> - Enhanced leadership and credibility capabilities developed through involvement in Student Leadership Program at the 
+     <li> Excellent time management, decision making, and independent work skills gained from 4+ years of project management
+     <li> Enhanced leadership and credibility capabilities developed through involvement in Student Leadership Program at the 
             Univeristy of Waterloo and Start-Up Immersion Programme at Hong Kong Polytechnic Univeristy 
-     <li> - Self-motivated, detail and result oriented with organization skills demonstrated through process implementations
-     <li> - Strong written adn verbal communication skills developed by delivering several presentations in front of 100+ individuals 
-     <li> - Proficient in HTML, CSS, Canva demonstrated through designing websites, online quizzes, and slide decks 
-     <li> - Advanced experience with Microsoft Office applications including Excel, Visio, PowerPoint, Word 
-     <li> - Fluent in French 
+     <li> Self-motivated, detail and result oriented with organization skills demonstrated through process implementations
+     <li> Strong written adn verbal communication skills developed by delivering several presentations in front of 100+ individuals 
+     <li> Proficient in HTML, CSS, Canva demonstrated through designing websites, online quizzes, and slide decks 
+     <li> Advanced experience with Microsoft Office applications including Excel, Visio, PowerPoint, Word 
+     <li> Fluent in French 
   </ul> 
   
 </p>
